@@ -1,4 +1,8 @@
 {
+  "simple": {
+    "name": "template-react-evefyou-app",
+    "path": "github:EvefyouFE/template-react-evefyou-app"
+  },
   "admin": {
     "name": "react-evefyou-admin",
     "path": "github:EvefyouFE/react-evefyou-admin"
