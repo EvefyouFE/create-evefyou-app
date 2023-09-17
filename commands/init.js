@@ -10,8 +10,8 @@ const question = [
     type: "list",
     name: "templateType",
     message: "Which template you want to create ?",
-    choices: ["admin"],
-    default: "admin",
+    choices: ["simple", "admin"],
+    default: "simple",
     validate() {
       return true;
     },
