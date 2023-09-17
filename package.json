@@ -1,6 +1,6 @@
 {
   "name": "create-evefyou-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A react-evefyou-app Template create library.",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvefyouFE/react-evefyou-admin-template.git"
+    "url": "git+https://github.com/EvefyouFE/create-evefyou-app.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "EvefyouFE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvefyouFE/react-evefyou-admin-template/issues"
+    "url": "https://github.com/EvefyouFE/create-evefyou-app/issues"
   },
-  "homepage": "https://github.com/EvefyouFE/react-evefyou-admin-template#readme",
+  "homepage": "https://github.com/EvefyouFE/create-evefyou-app#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^11.0.0",
